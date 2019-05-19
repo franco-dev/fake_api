@@ -1,4 +1,18 @@
 {
+    "users": [
+        {
+            "id": 1,
+            "name": "Franco"
+        },
+        {
+            "id": 2,
+            "name": "Alejandro"
+        },
+        {
+            "id": 3,
+            "name": "Reynaldo"
+        }
+    ],
     "posts": [
         {
             "id": 1,
